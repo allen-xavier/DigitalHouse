@@ -1,4 +1,7 @@
-package mvc;
+package mvc.controller;
+
+import mvc.model.Endereco;
+import mvc.view.EnderecoView;
 
 public class EnderecoController {
 	private Endereco model;

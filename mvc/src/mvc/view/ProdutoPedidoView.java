@@ -1,4 +1,4 @@
-package mvc;
+package mvc.view;
 
 public class ProdutoPedidoView {
 	public void imprimeProdutoPedido(int fk_idProduto, int fk_idPedido, int qtdeProduto) {

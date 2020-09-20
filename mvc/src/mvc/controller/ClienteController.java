@@ -1,4 +1,7 @@
-package mvc;
+package mvc.controller;
+
+import mvc.model.Cliente;
+import mvc.view.ClienteView;
 
 public class ClienteController {
 	private Cliente model;

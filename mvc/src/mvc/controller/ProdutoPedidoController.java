@@ -1,4 +1,7 @@
-package mvc;
+package mvc.controller;
+
+import mvc.model.ProdutoPedido;
+import mvc.view.ProdutoPedidoView;
 
 public class ProdutoPedidoController {
 	private ProdutoPedido model;

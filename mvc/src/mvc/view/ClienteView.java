@@ -1,4 +1,4 @@
-package mvc;
+package mvc.view;
 
 public class ClienteView {
 	public void imprimeDadosCliente(int idCliente, String nome, String cpf, String dtNasc,

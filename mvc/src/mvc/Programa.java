@@ -1,5 +1,24 @@
 package mvc;
 
+import mvc.controller.ClienteController;
+import mvc.controller.EnderecoController;
+import mvc.controller.PedidoController;
+import mvc.controller.ProdutoController;
+import mvc.controller.ProdutoPedidoController;
+import mvc.controller.TelefoneController;
+import mvc.model.Cliente;
+import mvc.model.Endereco;
+import mvc.model.Pedido;
+import mvc.model.Produto;
+import mvc.model.ProdutoPedido;
+import mvc.model.Telefone;
+import mvc.view.ClienteView;
+import mvc.view.EnderecoView;
+import mvc.view.PedidoView;
+import mvc.view.ProdutoPedidoView;
+import mvc.view.ProdutoView;
+import mvc.view.TelefoneView;
+
 public class Programa {
 	public static void main(String[] args) {
 

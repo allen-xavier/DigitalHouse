@@ -1,4 +1,7 @@
-package mvc;
+package mvc.controller;
+
+import mvc.model.Telefone;
+import mvc.view.TelefoneView;
 
 public class TelefoneController {
 	private Telefone model;

@@ -1,4 +1,4 @@
-package mvc;
+package mvc.view;
 
 public class EnderecoView {
 	public void imprimeEnderecoCliente(int idEndereco, int fk_idCliente, String logradouro, int numero, String complemento,

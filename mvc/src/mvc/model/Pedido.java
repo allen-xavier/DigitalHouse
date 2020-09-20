@@ -1,4 +1,4 @@
-package mvc;
+package mvc.model;
 
 public class Pedido {
 	private int idPedido;
